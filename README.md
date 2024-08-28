@@ -54,16 +54,9 @@ The challenge is to perform data cleaning, exploratory data analysis (EDA), and 
 Develop a machine learning model that predicts the likelihood of needing corrective lenses based on readily available data 
 
 
+The dataset contains information about potential customers of a spectacles company. The data includes demographic information, lifestyle habits, and health data.
 
-(Note: The above problem statement is divided into various tasks for you to work on, which are interconnected. By completing all the tasks given below, you will arrive at the solution of the problem statement.)
-
-Dataset
-
-Download
-
-This dataset contains information about potential customers of a spectacles company. The data includes demographic information, lifestyle habits, and health data.
-
-This dataset can be used to understand the demographics, lifestyle habits, and health data of customers of Spectacles company. This information can be used to develop marketing campaigns, improve product offerings, and provide better customer service.
+The dataset can be used to understand the demographics, lifestyle habits, and health data of customers of Spectacles company. This information can be used to develop marketing campaigns, improve product offerings, and provide better customer service.
 
 Data Source: The data was collected through a survey of customers of a Spectacles company. The survey was conducted online and the data was collected through a Google Forms questionnaire.
 
